@@ -1,4 +1,4 @@
-# 5echm_web
+# 归档，新仓库在[这里](https://github.com/DND5eChm/5echm_web)
 
 这个项目的目的是将5echm转换成静态网页版本,并方便地在各种设备的浏览器上访问。
 
